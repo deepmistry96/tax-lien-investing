@@ -7,8 +7,8 @@ If the auction closes, and the hidden minimum reserve is not met, then the prope
 
 The whole point of this is to obscure the starting price, the starting price will not be able to be changed. 
 
-There are some strategies to anticipate if there might be an HMR (hidden minimum reserve)
+There are some strategies to anticipate if there might be an [[HMR]] (hidden minimum reserve)
 - the auction starts at 1k 
-- the price is nowhere near MAO 
-	- if it is less than MAO then bid, and let it compress
+- the price is nowhere near [[MAO]] 
+	- if it is less than [[MAO]] then bid, and let it compress
 

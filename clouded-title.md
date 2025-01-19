@@ -11,7 +11,7 @@ If you really want to free up capital there is at least one option that you have
 
 Almost no mortgage company is typically willing to refinance a mortgage on a deed that has a clouded title. 
 
-Some investors really value the MOA formula, if you purchase the property for MOA or less, some companies like (taxlien) will be willing to provide you with liquidity and allow you to refinance the purchase, free-ing up capital. 
+Some investors really value the [[MAO]] formula, if you purchase the property for [[MAO]] or less, some companies like (taxlien) will be willing to provide you with liquidity and allow you to refinance the purchase, free-ing up capital. 
 
 
 

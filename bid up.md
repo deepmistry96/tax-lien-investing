@@ -2,4 +2,4 @@ bidding down is a concept in auctioning where the price starts at the highest it
 
 The example that is used is bidding down on the interest rate on a lien. 
 
-The counter concept to this is "[[bid down]]"
+The counter concept to this is "[[[[bid down]]]]"

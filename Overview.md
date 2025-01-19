@@ -10,4 +10,7 @@
 
 ## Liens are transferable. 
 
-## 
+## General rules 
+ 1 - Never pay retail 
+ 2 - Don't anticipate appreciation, that is speculation
+ 3 -   

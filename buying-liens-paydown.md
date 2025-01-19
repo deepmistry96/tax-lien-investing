@@ -13,6 +13,6 @@ We have to remember that the whole reason that the tax lien market exists is bec
 
 
 ## "preferred" rate
-If the lien gets to foreclosure, there is a potential for you to automatically get the preferred rate, no matter what the rate that you [[bid down]] to. That is one of the possible perks of purchasing liens that have a low likelyhood of getting paid back.
+If the lien gets to foreclosure, there is a potential for you to automatically get the preferred rate, no matter what the rate that you [[[[bid down]]]] to. That is one of the possible perks of purchasing liens that have a low likelyhood of getting paid back.
 
 
