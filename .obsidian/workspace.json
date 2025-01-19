@@ -1,0 +1,271 @@
+{
+  "main": {
+    "id": "59327f13d64361db",
+    "type": "split",
+    "children": [
+      {
+        "id": "ce81730951934fc7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "434cbdf0801e63b0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "straight-lease-option.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "straight-lease-option"
+            }
+          },
+          {
+            "id": "b03215fd4099221f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Practice problems.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Practice problems"
+            }
+          },
+          {
+            "id": "ba933efb17d7ec02",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Overview.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Overview"
+            }
+          },
+          {
+            "id": "210be2e7f3f8d326",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          },
+          {
+            "id": "f4ef3a2cbf542eab",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "sub2-strategies.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "sub2-strategies"
+            }
+          },
+          {
+            "id": "811780c163ae7ed3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Overview.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Overview"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "afafa62d8d11ea46",
+    "type": "split",
+    "children": [
+      {
+        "id": "e9584b63499076f8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9c4de648dd032374",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "aba75e47dedd3f18",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "d4ed6b04b9632caf",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "5052ed08f2f5cf0f",
+    "type": "split",
+    "children": [
+      {
+        "id": "997a04a32598175a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "00301c01905030ee",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Practice problems.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Practice problems"
+            }
+          },
+          {
+            "id": "59778b76da6623c5",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Practice problems.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Practice problems"
+            }
+          },
+          {
+            "id": "3c78309d6e6217a6",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "c0bd1b1bf5617fc2",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Practice problems.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Practice problems"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "b03215fd4099221f",
+  "lastOpenFiles": [
+    "fundamentals/concepts/minimum-allowable-offer.md",
+    "fundamentals/concepts/maximum-allowable-offer.md",
+    "fundamentals/concepts/actual-retail-value.md",
+    "fundamentals/concepts/PITI.md",
+    "fundamentals/concepts/LTV.md",
+    "fundamentals/concepts/ROI.md",
+    "networking",
+    "market-research/timing",
+    "market-research/locations",
+    "market-research/competition",
+    "market-research",
+    "tools/software",
+    "tools/resources",
+    "tools",
+    "legal/rights",
+    "legal/issues",
+    "auction-bidding-strategy.md",
+    "quieting-the-lien.md",
+    "banks.md",
+    "PITI.md",
+    "exit-strategies.md",
+    "holding-costs.md",
+    "financing-risk-assessment.md",
+    "credit-based-lenders.md",
+    "financing-options.md",
+    "worst-states-to-buy-liens.md",
+    "potential-points-of-profit.md",
+    "maximum-allowable-offer.md",
+    "networking-resources.md",
+    "finding-deals.md",
+    "record-keeping.md",
+    "required-documents.md",
+    "seasonal-timing.md",
+    "competition-analysis.md",
+    "bankruptcy-impact.md",
+    "closing-costs.md"
+  ]
+}
