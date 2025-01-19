@@ -3,37 +3,39 @@
 ## Primary Exit Strategies
 1. Redemption
    - Property owner pays
-   - Interest and penalties collected
+   - Interest and [[penalty-calculations]]
    
-2. Foreclosure
+2. [[foreclosure-process]]
    - Take possession
    - Sell property
    - Rental income
 
 3. Assignment/Sale of Lien
-   - Secondary market sale
+   - [[secondary-market]]
    - Private investors
    - Investment pools
 
 ## Timing Considerations
-- Market conditions
-- Holding costs
+- [[market-analysis]]
+- [[holding-costs]]
 - Property condition
-- Legal timelines
+- [[redemption-rights]]
 - ROI targets
 
 ## Strategy Selection Factors
 - Property value
 - Market liquidity
-- Legal constraints
+- [[bankruptcy-impact]]
 - Resource availability
 - Risk tolerance
 
 ## Contingency Planning
 - Multiple exit options
 - Backup strategies
-- Market monitoring
+- [[market-analysis]]
 - Cost management
 - Timeline flexibility
 
-tags: #strategy #exit #planning 
+Related: [[portfolio-management]]
+
+tags: #strategy #exit #planning #risk-management 

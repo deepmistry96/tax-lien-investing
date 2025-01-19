@@ -3,7 +3,7 @@
 ## Primary Market Sources
 1. County Tax Sales
    - Direct from county
-   - Online auctions
+   - Online [[virtual-auctions]]
    - In-person auctions
    - Strike-off lists
 
@@ -11,33 +11,35 @@
    - Institutional sellers
    - Individual investors
    - Online marketplaces
-   - Broker networks
+   - [[networking-resources]]
 
 ## Research Methods
 - County records search
 - Online databases
-- Market analysis tools
+- [[market-analysis]] tools
 - Network referrals
 - Direct marketing
 
 ## Deal Evaluation
 1. Property Analysis
    - Location quality
-   - Property condition
+   - [[property-inspection]]
    - Market value
    - Development potential
    
 2. Financial Analysis
    - Purchase price
-   - Expected returns
-   - Holding costs
-   - Exit options
+   - [[ROI]]
+   - [[holding-costs]]
+   - [[exit-strategies]]
 
 ## Due Diligence Steps
-- Title search
+- [[title-search]]
 - Property inspection
 - Market research
-- Risk assessment
-- Competition analysis
+- [[risk-assessment]]
+- [[competition-analysis]]
 
-tags: #deals #strategy #research 
+Related: [[seasonal-timing]] for optimal purchase timing
+
+tags: #deals #strategy #research #primary-market 

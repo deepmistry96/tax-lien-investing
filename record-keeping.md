@@ -3,26 +3,27 @@
 ## Essential Records
 1. Financial Records
    - Purchase costs
-   - Interest calculations
+   - [[interest-rates]]
    - Payment histories
-   - Expense tracking
-   - ROI analysis
+   - [[holding-costs]]
+   - [[ROI]]
 
 2. Legal Documents
    - Certificates
-   - Notices
+   - [[legal-notices]]
    - Correspondence
    - Court filings
-   - Title documents
+   - [[title-search]]
 
 3. Property Information
-   - Assessment records
-   - Inspection reports
+   - [[tax-assessment]]
+   - [[property-inspection]]
    - Photos/videos
    - Maintenance logs
    - Insurance documents
 
 ## Organization Systems
+See [[required-documents]] for complete checklist
 - Digital filing structure
 - Naming conventions
 - Version control
@@ -37,10 +38,13 @@
 - Access controls
 
 ## Technology Solutions
+See [[automation-tools]]
 - Document management systems
 - Cloud storage
 - Security measures
 - Automation tools
 - Integration capabilities
 
-tags: #documentation #organization #compliance 
+Related: [[portfolio-management]]
+
+tags: #documentation #organization #compliance #systems 
