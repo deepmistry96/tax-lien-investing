@@ -8,45 +8,13 @@
         "type": "tabs",
         "children": [
           {
-            "id": "434cbdf0801e63b0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "straight-lease-option.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "straight-lease-option"
-            }
-          },
-          {
-            "id": "b03215fd4099221f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Practice problems.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Practice problems"
-            }
-          },
-          {
             "id": "ba933efb17d7ec02",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Overview.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Overview"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           },
           {
@@ -57,20 +25,6 @@
               "state": {},
               "icon": "lucide-git-fork",
               "title": "Graph view"
-            }
-          },
-          {
-            "id": "f4ef3a2cbf542eab",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "sub2-strategies.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "sub2-strategies"
             }
           },
           {
@@ -87,8 +41,7 @@
               "title": "Overview"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -160,7 +113,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Practice problems.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -170,7 +122,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Practice problems"
+              "title": "Backlinks"
             }
           },
           {
@@ -179,12 +131,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Practice problems.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Practice problems"
+              "title": "Outgoing links"
             }
           },
           {
@@ -205,11 +156,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Practice problems.md"
-              },
+              "state": {},
               "icon": "lucide-list",
-              "title": "Outline of Practice problems"
+              "title": "Outline"
             }
           }
         ]
@@ -229,14 +178,36 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b03215fd4099221f",
+  "active": "ba933efb17d7ec02",
   "lastOpenFiles": [
-    "fundamentals/concepts/minimum-allowable-offer.md",
-    "fundamentals/concepts/maximum-allowable-offer.md",
-    "fundamentals/concepts/actual-retail-value.md",
-    "fundamentals/concepts/PITI.md",
-    "fundamentals/concepts/LTV.md",
-    "fundamentals/concepts/ROI.md",
+    "fundamentals/auction-strategies.md",
+    "fundamentals/due-diligence-checklist.md",
+    "fundamentals/market-analysis.md",
+    "fundamentals/risk-assessment.md",
+    "fundamentals/state-guidelines.md",
+    "fundamentals/case-studies.md",
+    "fundamentals/glossary.md",
+    "fundamentals/getting-started.md",
+    "legal/documentation/required-documents.md",
+    "process/acquisition/virtual-auctions.md",
+    "process/acquisition/finding-deals.md",
+    "process/acquisition/buying-liens-paydown.md",
+    "process/acquisition/due-diligence/title-search.md",
+    "process/acquisition/due-diligence/property-inspection.md",
+    "process/acquisition/bidding/bid-up.md",
+    "process/acquisition/bidding/bid-down.md",
+    "Overview.md",
+    "archive/tony-robins.md",
+    "archive/tax-deep-application.md",
+    "archive/bid down.md",
+    "archive/Untitled.md",
+    "archive",
+    "legal/documentation/forclosing-party.md",
+    "process/exit/your-exit.md",
+    "fundamentals/concepts/momentum.md",
+    "fundamentals/concepts/fast-5-percent-penalty.md",
+    "fundamentals/concepts/potential-profit-breakdown.md",
+    "tools/software/MOA_calulator.py",
     "networking",
     "market-research/timing",
     "market-research/locations",
@@ -244,28 +215,6 @@
     "market-research",
     "tools/software",
     "tools/resources",
-    "tools",
-    "legal/rights",
-    "legal/issues",
-    "auction-bidding-strategy.md",
-    "quieting-the-lien.md",
-    "banks.md",
-    "PITI.md",
-    "exit-strategies.md",
-    "holding-costs.md",
-    "financing-risk-assessment.md",
-    "credit-based-lenders.md",
-    "financing-options.md",
-    "worst-states-to-buy-liens.md",
-    "potential-points-of-profit.md",
-    "maximum-allowable-offer.md",
-    "networking-resources.md",
-    "finding-deals.md",
-    "record-keeping.md",
-    "required-documents.md",
-    "seasonal-timing.md",
-    "competition-analysis.md",
-    "bankruptcy-impact.md",
-    "closing-costs.md"
+    "tools"
   ]
 }
