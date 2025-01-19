@@ -1,5 +1,6 @@
 
 # Hard Money Lenders
+#financial
 
 Hard money  are private investors or companies that provide loans secured by real estate. They are often used for commercial properties or projects that banks may not consider low-risk
 

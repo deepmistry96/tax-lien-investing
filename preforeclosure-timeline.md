@@ -1,3 +1,6 @@
+#strategy-and-process
+
+
 
 1 - There is or there isnt equity
 2 - payments on the mortgage stop 

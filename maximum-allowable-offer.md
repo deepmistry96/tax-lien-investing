@@ -1,4 +1,5 @@
 # maximum allowable offer
+#core-concept
 
 
 The formula to determine the quitting point on a bid is by 

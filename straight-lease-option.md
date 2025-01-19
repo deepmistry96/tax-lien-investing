@@ -1,4 +1,6 @@
 # straight lease option
+#strategy-and-process
+
 
 ### NROC - non-refundable option consideration
 Do not call this a downpayment. 

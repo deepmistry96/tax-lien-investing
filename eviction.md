@@ -1,3 +1,6 @@
+#strategy-and-process
+
+
 If you win the bid on the lien, and then they are delinquent for long enough for the property to make it to auction, and then no one bids on it . . . that is now your house. 
 
 What if there is someone living there already? 

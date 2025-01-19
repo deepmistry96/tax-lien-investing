@@ -1,4 +1,5 @@
 # [[compression]]
+#market-related
 
 ### Why does [[compression]] exist? 
 This is because the fact that the county needs to be able to sell 10s of thousand of liens in a single day. What they do is open up the aution before hand for bids. 

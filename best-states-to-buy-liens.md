@@ -1,4 +1,5 @@
 # Best States to Buy Liens
+#location-based
 
 ## Florida
 The returns are pretty phenomenal in Florida. They have a pretty strong market, and from recent trends, it has been one of the fastest growing states in the US.

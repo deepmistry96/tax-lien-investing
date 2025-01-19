@@ -1,4 +1,5 @@
 ## bank's pre-forclosure timeline 
+#financial
 
 1 - There is or there isnt equity
 2 - payments on the mortgage stop 

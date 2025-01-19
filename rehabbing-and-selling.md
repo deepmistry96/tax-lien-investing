@@ -1,5 +1,7 @@
 
 # Rehabbing and Selling
+#strategy-and-process
+
 
 - as is 
 - close in 1 hour 

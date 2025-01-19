@@ -1,4 +1,5 @@
 # Lines of Credit
+#financial
 
 If I want to use my credit card for captial, dont use a cash advance. 
 
