@@ -3,49 +3,45 @@
 ## Overview of Tax Lien Foreclosure
 
 ### Legal Basis
-- Tax lien priority
-- Statutory authority
-- Constitutional rights
-- Due process requirements
-- Property rights
+- [[liens-vs-deeds|Tax lien priority]]
+- [[state-guidelines|Statutory authority]]
+- [[investor-rights|Constitutional rights]]
+- [[legal-notices|Due process requirements]]
+- [[owner-occupied|Property rights]]
 
 ### Timeline Overview
-1. Tax Delinquency
-2. Lien Attachment
-3. Redemption Period
-4. Notice Requirements
-5. Foreclosure Action
-6. Court Proceedings
-7. Property Transfer
+1. [[tax-assessment|Tax Delinquency]]
+2. [[liens-vs-realestate|Lien Attachment]]
+3. [[redemption-period|Redemption Period]]
+4. [[legal-notices|Notice Requirements]]
+5. [[foreclosure-process|Foreclosure Action]]
+6. [[quieting-the-lien|Court Proceedings]]
+7. [[redemption-deed-investing|Property Transfer]]
 
 ## Pre-Foreclosure Requirements
 
 ### 1. Documentation
-- [ ] Original tax certificate
-- [ ] Assignment records
-- [ ] Payment history
-- [ ] Property records
-- [ ] Title search
-- [ ] Ownership verification
-- [ ] Additional liens
-- [ ] Legal descriptions
+- [ ] [[required-documents|Original tax certificate]]
+- [ ] [[record-keeping|Assignment records]]
+- [ ] [[portfolio-management|Payment history]]
+- [ ] [[property-inspection|Property records]]
+- [ ] [[title-search|Title search]]
+- [ ] [[clouded-title|Ownership verification]]
+- [ ] [[common-issues|Additional liens]]
 
-### 2. Notice Requirements
-#### Required Notices
-- Delinquency notice
-- Intent to foreclose
-- Right to redeem
-- Court summons
-- Public notices
-- Final judgment
+### 2. Legal Considerations
+- [[bankruptcy-impact|Bankruptcy checks]]
+- [[owner-occupied|Occupancy status]]
+- [[redemption-rights|Redemption rights]]
+- [[environmental-hazards|Environmental issues]]
+- [[legal-notices|Notice compliance]]
 
-#### Service Methods
-- Certified mail
-- Personal service
-- Publication
-- Posting on property
-- Electronic notification
-- International service
+### 3. Financial Analysis
+- [[holding-costs|Carrying costs]]
+- [[tax-implications|Tax considerations]]
+- [[exit-strategies|Exit strategy]]
+- [[ROI|Return calculations]]
+- [[maximum-allowable-offer|Maximum investment]]
 
 ## Legal Process
 

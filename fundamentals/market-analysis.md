@@ -4,22 +4,22 @@
 
 ### 1. Macro Analysis
 #### Economic Indicators
-- GDP growth rates
+- [[market-cycles|GDP growth rates]]
 - Employment statistics
-- Interest rate trends
-- Inflation rates
-- Housing market indices
+- [[interest-rates|Interest rate trends]]
+- [[opportunity-cost|Inflation rates]]
+- [[actual-retail-value|Housing market indices]]
 
 #### Demographic Trends
-- Population growth
+- [[location-analysis|Population growth]]
 - Age distribution
-- Income levels
-- Migration patterns
+- [[CAMEL-score|Income levels]]
+- [[best-states-to-buy-liens|Migration patterns]]
 - Employment sectors
 
 #### Market Cycles
 ```plaintext
-Market Phase Assessment:
+[[market-cycles|Market Phase Assessment]]:
 1. Recovery (Best Entry)
 2. Expansion (Good Returns)
 3. Hyper Supply (Caution)
@@ -28,43 +28,22 @@ Market Phase Assessment:
 
 ### 2. Regional Analysis
 #### Geographic Factors
-- Metropolitan areas
-- Suburban regions
-- Rural markets
-- Growth corridors
-- Development zones
+- [[location-analysis|Local market conditions]]
+- [[property-inspection|Property conditions]]
+- [[market-basics/primary-market|Primary market activity]]
+- [[market-basics/secondary-market|Secondary market opportunities]]
 
-#### Economic Drivers
-- Major employers
-- Industry diversity
-- Business growth
-- Infrastructure projects
-- Government initiatives
+### 3. Risk Assessment
+- [[risk-assessment|Market risk factors]]
+- [[competition-analysis|Competitive landscape]]
+- [[seasonal-timing|Timing considerations]]
+- [[data-analysis|Historical performance data]]
 
-### 3. Local Market Analysis
-
-#### Neighborhood Assessment
-Scoring System (1-5):
-1. Infrastructure
-   - Roads
-   - Utilities
-   - Public transport
-   - Schools
-   - Healthcare
-
-2. Economic Vitality
-   - Business activity
-   - Employment
-   - Income levels
-   - Retail occupancy
-   - Development
-
-3. Quality of Life
-   - Safety
-   - Amenities
-   - Parks
-   - Shopping
-   - Entertainment
+### 4. Tools and Resources
+- [[essential-tools|Market analysis tools]]
+- [[software-solutions|Data analytics software]]
+- [[professional-network|Local market experts]]
+- [[data-analysis|Public records access]]
 
 ## Data Collection Methods
 

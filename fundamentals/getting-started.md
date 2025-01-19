@@ -1,23 +1,23 @@
 # Getting Started with Tax Lien Investing
 
 ## What is Tax Lien Investing?
-Tax lien investing involves purchasing tax lien certificates from local governments when property owners fail to pay their property taxes. As an investor, you essentially pay the tax debt on behalf of the property owner and receive:
+Tax lien investing involves purchasing [[tax-deed-investing|tax lien certificates]] from local governments when property owners fail to pay their property taxes. As an investor, you essentially pay the tax debt on behalf of the property owner and receive:
 - The right to collect the paid tax amount
 - Interest on your investment (rates vary by state)
-- Potential property ownership if the owner doesn't pay (redemption)
+- Potential property ownership if the owner doesn't pay ([[redemption-period|redemption]])
 
 ## Key Benefits
 1. Fixed Interest Rates (varies by state, can be 16-18% or higher)
-2. Government-Backed Investment
-3. Potential Property Acquisition
+2. [[financing-risk-assessment|Government-Backed Investment]]
+3. [[foreclosure-process|Potential Property Acquisition]]
 4. Lower Initial Investment vs Traditional Real Estate
 
 ## Risks to Consider
-1. Property Condition Unknown
-2. Extended Redemption Periods
-3. Additional Costs (legal, maintenance)
-4. Competition from Institutional Investors
-5. Complex Legal Requirements
+1. [[property-inspection|Property Condition Unknown]]
+2. [[redemption-rights|Extended Redemption Periods]]
+3. [[holding-costs|Additional Costs]] (legal, maintenance)
+4. [[competition-analysis|Competition from Institutional Investors]]
+5. [[required-documents|Complex Legal Requirements]]
 
 ## Getting Started Checklist
 1. Education Phase:
@@ -66,11 +66,10 @@ Tax lien investing involves purchasing tax lien certificates from local governme
 5. Legal Resources
 
 ## Next Steps
-After reviewing this guide:
-1. Read our detailed glossary
-2. Study specific state guidelines
-3. Review example case studies
-4. Practice analyzing potential investments
-5. Attend a local auction as an observer
+1. Review [[state-guidelines]] for your target market
+2. Understand [[market-analysis|local market conditions]]
+3. Prepare your [[due-diligence-checklist]]
+4. Research [[financing-options]]
+5. Build your [[professional-network]]
 
 Remember: Start small, learn continuously, and always perform thorough due diligence. 

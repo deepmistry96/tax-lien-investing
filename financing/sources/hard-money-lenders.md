@@ -1,50 +1,66 @@
 # Hard Money Lenders
 
 ## Overview
-Private investors or companies providing asset-based loans secured by real estate, focusing on property value rather than borrower creditworthiness.
+Private investors or companies providing [[asset-based-lenders|asset-based loans]] secured by real estate, focusing on [[actual-retail-value|property value]] rather than [[CAMEL-score|borrower creditworthiness]].
 
 ## Key Features
-- Asset-based evaluation
-- Quick funding (typically 1-2 weeks)
-- Minimal credit requirements
-- Higher interest rates (8-15%)
-- Short terms (6-18 months)
+- [[property-inspection|Asset-based evaluation]]
+- [[financing-options|Quick funding]] (typically 1-2 weeks)
+- [[credit-based-lenders|Minimal credit requirements]]
+- [[interest-rates|Higher interest rates]] (8-15%)
+- [[financing-risk-assessment|Short terms]] (6-18 months)
 
 ## Loan Parameters
-- Down payment requirements (20%+)
-- Property value focus
-- Bridge financing options
-- Flexible underwriting
-- Custom terms available
+- [[LTV|Down payment requirements]] (20%+)
+- [[actual-retail-value|Property value focus]]
+- [[financing-options|Bridge financing options]]
+- [[financing-risk-assessment|Flexible underwriting]]
+- [[private-placement-memorandum|Custom terms available]]
 
 ## Documentation Needs
-- Property details
-- Appraisal reports
-- Purchase agreement
-- Exit strategy
-- Basic financials
+- [[property-inspection|Property details]]
+- [[actual-retail-value|Appraisal reports]]
+- [[required-documents|Purchase agreement]]
+- [[exit-strategies|Exit strategy]]
+- [[record-keeping|Basic financials]]
 
 ## Advantages
-- Fast approvals
-- Flexible terms
-- Less documentation
-- No income verification
-- Quick closing
+- [[financing-options|Fast approvals]]
+- [[financing-risk-assessment|Flexible terms]]
+- [[required-documents|Less documentation]]
+- [[portfolio-management|Quick portfolio expansion]]
+- [[market-analysis|Market opportunity capture]]
 
 ## Risk Considerations
-- Higher interest burden
-- Short repayment periods
-- Collateral requirements
-- [[exit-strategies]] timing
-- Refinancing needs
+- [[interest-rates|Higher costs]]
+- [[penalty-calculations|Strict penalties]]
+- [[foreclosure-process|Quick foreclosure terms]]
+- [[holding-costs|Short repayment windows]]
+- [[financing-risk-assessment|Limited refinance options]]
 
 ## Best Uses
-- Quick purchases
-- [[auction]] acquisitions
-- Bridge financing
-- Distressed properties
-- Time-sensitive deals
+- [[auction-strategies|Auction purchases]]
+- [[market-analysis|Time-sensitive deals]]
+- [[portfolio-management|Portfolio expansion]]
+- [[refinancing|Bridge financing]]
+- [[exit-strategies|Quick flip opportunities]]
 
-Related: [[financing-options]], [[transactional-based-lenders]]
+## Lender Requirements
+- [[title-search|Clean title]]
+- [[property-inspection|Property access]]
+- [[insurance|Insurance coverage]]
+- [[due-diligence-checklist|Basic due diligence]]
+- [[exit-strategies|Clear exit plan]]
 
-tags: #financing #hard-money #lenders #quick-funding
+## Alternative Options
+- [[banks|Traditional bank loans]]
+- [[credit-based-lenders|Credit-based financing]]
+- [[private-placement-memorandum|Private placements]]
+- [[lines-of-credit|Credit lines]]
+- [[transactional-based-lenders|Transaction-based funding]]
+
+Remember: Hard money loans can be excellent for quick purchases but require careful consideration of the higher costs and shorter terms.
+
+Related: [[financing-options]], [[asset-based-lenders]], [[exit-strategies]]
+
+tags: #financing #hard-money #private-lending #quick-funding

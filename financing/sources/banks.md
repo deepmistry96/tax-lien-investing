@@ -1,28 +1,78 @@
-## bank's pre-forclosure timeline 
-#financial
+# Traditional Bank Financing
 
-1 - There is or there isnt equity
-2 - payments on the mortgage stop 
-3 - after X number of months the bank sends out a "notice of default", X being at the banks desecration
-4 - short sell offers considered 
-5 - bank sends the property to auction 
-6 - auction takes place 
+## Overview
+Traditional banks offer structured financing options for tax lien investors, with a focus on [[CAMEL-score|creditworthiness]] and [[financing-risk-assessment|risk assessment]]. Understanding bank processes and requirements is crucial for successful financing.
 
+## Types of Bank Financing
+- [[lines-of-credit|Business lines of credit]]
+- [[financing-options|Commercial loans]]
+- [[refinancing|Refinancing options]]
+- [[portfolio-management|Portfolio loans]]
+- [[asset-based-lenders|Asset-based facilities]]
 
-## The big 6 banks
+## Key Requirements
+- [[CAMEL-score|Strong credit history]]
+- [[record-keeping|Financial statements]]
+- [[tax-assessment|Tax returns]]
+- [[portfolio-management|Business plan]]
+- [[due-diligence-checklist|Documentation compliance]]
 
-Wells Fargo 
-Bank of America
-Chase 
-Citi
-US Bank
-Dauche Bank
+## Advantages
+- [[interest-rates|Lower interest rates]]
+- [[financing-options|Longer terms]]
+- [[portfolio-management|Relationship building]]
+- [[refinancing|Refinancing potential]]
+- [[financing-risk-assessment|Structured payments]]
 
+## Bank Selection Considerations
 
-It is recommended to not do business with the big 6 banks. This is because they are just not that fun to deal with. In some cases, it may be that the right hand does not know what the left hand is doing. See how that might be frustrating
+### Large National Banks
+The "Big 6" banks (Wells Fargo, Bank of America, Chase, Citi, US Bank, Deutsche Bank) often have:
+- Complex approval processes
+- [[required-documents|Extensive documentation requirements]]
+- [[financing-risk-assessment|Strict underwriting]]
+- [[portfolio-management|Limited flexibility]]
+- [[financing-options|Standardized products]]
 
+### Regional/Local Banks
+Often preferred for tax lien investing due to:
+- [[portfolio-management|Local market knowledge]]
+- [[financing-options|Flexible terms]]
+- [[financing-risk-assessment|Faster decisions]]
+- [[professional-network|Personal relationships]]
+- [[market-analysis|Market understanding]]
 
-One way to get more insight into the bank, you can ask for the 10k report. Anyone is allowed to request this report, and you want to look for the [[NPL]] line
+## Due Diligence on Banks
+- Request [[record-keeping|10K reports]]
+- Check [[financing-risk-assessment|NPL ratios]] (Non-Performing Loans)
+- Review [[interest-rates|rate structures]]
+- Assess [[financing-options|loan programs]]
+- Verify [[FDIC]] status
 
-NPL stands for non-performing loans. NPL is anything that is more than 91 days late. If the NPL line is 5% or higher, they are on the FDIC watch list. 5% of the total number of loans on the book. 
+### Red Flags
+- NPL ratio > 5% ([[FDIC]] watch list)
+- [[bankruptcy-impact|Poor regulatory ratings]]
+- [[financing-risk-assessment|Unstable management]]
+- [[market-cycles|Market concentration]]
+- [[portfolio-management|Limited tax lien experience]]
+
+## Documentation Requirements
+- [[required-documents|Business documentation]]
+- [[record-keeping|Financial statements]]
+- [[tax-assessment|Tax returns]]
+- [[portfolio-management|Investment history]]
+- [[property-inspection|Property documentation]]
+
+## Alternative Options
+- [[credit-based-lenders|Credit unions]]
+- [[hard-money-lenders|Private lenders]]
+- [[asset-based-lenders|Asset-based lenders]]
+- [[private-placement-memorandum|Investment groups]]
+- [[lines-of-credit|Alternative credit lines]]
+
+Remember: While traditional banks offer the most competitive rates, they often have the most stringent requirements and longest approval processes.
+
+Related: [[financing-options]], [[credit-based-lenders]], [[lines-of-credit]]
+
+tags: #financing #banks #traditional-financing #commercial-loans
 
