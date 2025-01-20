@@ -15,7 +15,7 @@ ARV 420,000
 wholesale fee of 7500 
 What is the MAO?
 ```
-You're correct; we need to include the additional costs as outlined. Here's the updated formula with the adjustments:
+
 
 MAO=ARV−(Profit Margin+Repair Costs+Wholesale Fee+Fudge Factor+Sales Costs+Holding Costs+Legal Fees)\text{MAO} = \text{ARV} - (\text{Profit Margin} + \text{Repair Costs} + \text{Wholesale Fee} + \text{Fudge Factor} + \text{Sales Costs} + \text{Holding Costs} + \text{Legal Fees})
 
@@ -98,3 +98,9 @@ The **Maximum Allowable Offer (MAO)** for this scenario is **$478,518**.
 683k ARV
 59k anticipated repairs
 15k whole sale fee of the investors profit 
+
+
+
+
+
+
